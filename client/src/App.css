@@ -1,0 +1,20 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+}
+body {
+    background-image: url("https://i1.wp.com/www.tirumalesa.com/wp-content/uploads/2014/10/The-Amazing-Golden-Gopuram-Of-Tirumala-Temple.jpg?fit=2048%2C1365");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+h2 {
+    text-align: center;
+    /* color: #fff; */
+    font-size: 40px;
+    margin-top: 10px;
+    font-family: 'PT Sans', sans-serif;
+    background: #fff;
+    padding: 3px;
+}

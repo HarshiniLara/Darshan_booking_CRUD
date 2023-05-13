@@ -1,0 +1,72 @@
+.adminnav {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: #a88c50;
+    color: #fff;
+    padding: 20px 40px;
+}
+  
+  .adminnav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .adminnav a:hover {
+    color: #000;
+    background: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .adminnav button {
+    background-color: #fff;
+    color: #333;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .adminnav button:hover {
+    background-color: #ddd;
+  }
+  
+  .usernav {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: #a88c50;
+    color: #fff;
+    padding: 20px 40px;
+}
+  
+.usernav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .usernav a:hover {
+    color: #000;
+    background: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .usernav button {
+    background-color: #fff;
+    color: #333;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .usernav button:hover {
+    background-color: #ddd;
+  }
+  
